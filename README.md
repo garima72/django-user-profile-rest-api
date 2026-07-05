@@ -1,4 +1,4 @@
-# Django REST API - Blog Management System
+# Django REST API - UserProfile Management System
 
 ## About
 
